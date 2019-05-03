@@ -1,0 +1,160 @@
+body {
+  background-color: lightgrey;
+  max-width: 900px;
+  margin: auto;
+  font-family: "Arial";
+} 
+
+#firstul {
+    list-style-type: none;
+    margin: 0;
+    padding: -20px;
+    background-color:darkgrey;
+    color: white;
+    float: left;
+    width: 808px;
+    height: 60px;
+    text-align: right;
+  }
+
+#firstli {
+    background-color:darkgrey;
+    color: white;
+    font-style: bold;
+}
+
+#secondul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:white;
+  }
+
+
+  
+li {
+    float: left;
+    font-family: "Arial";
+    font-weight: bold;
+    background-color:white;
+  }
+  
+  li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+  }
+
+#logo {
+  height: 80px;
+  width: 150px;
+  overflow: hidden;
+}
+
+  .topnav {
+    overflow: hidden;
+    background-color: white;
+    width: 848px;
+  }
+
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: solid;
+    border-color: lightgrey;
+    border-width: thin;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    width: 200px;
+  }
+
+  .tables {
+    border-left: 1px solid darkslategray;
+    border-right: 1px solid darkslategray;
+    /* border-collapse: collapse; */
+    font-family: "Arial";
+    text-align: justify;
+    background-color: white;
+    width: 848px;
+  }
+#firstth {
+    background-color: orange;
+    padding-top: 20px;
+}
+
+#lasttd {
+    color: teal;
+}
+
+.searching {
+    background-color: teal;
+    color: white;
+    font-family: "Arial";
+    width: 848px;
+    height: 90x;
+    padding: 20x;
+}
+
+.searching2 {
+    background-color: teal;
+    color: white;
+    padding: 20x;
+    font-family: "Arial";
+    float: right;
+}
+.carousel-inner{
+  width:100px;
+  height:500px;
+}
+
+#box1 {
+  width: 400px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  background-color: white;
+  float: left;
+  margin-right: 10px;
+  letter-spacing: 1px;
+}
+
+#box2 {
+  width: 400px;
+  padding-bottom: 18px;
+  margin-bottom: 55px;
+  background-color: white;
+  float: left;
+  letter-spacing: 1px;
+  margin-left: 40px;
+}
+
+.columns {
+  width: 600px;
+  height: 500px;
+  float: left;
+
+}
+
+#tefsilver {
+  float: right;
+}
+
+footer{
+  clear: both;
+  height: 360px;
+  width: 848px;
+  margin: 0px 0px 0px 0px;
+  font-family: arial;
+  font-weight: bold;
+  color: white;
+  font-size: 11px;
+  background-color: darkslategrey;
+  text-align: left;
+}
+
+.widget-content {
+  float: right;
+  color: white;
+}
